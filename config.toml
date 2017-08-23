@@ -1,0 +1,5 @@
+baseURL = "https://anand-vyas.github.io/"
+languageCode = "en-us"
+title = "Anand Shreyash Vyas"
+theme="hugo-nuo"
+publishDir = "docs"
